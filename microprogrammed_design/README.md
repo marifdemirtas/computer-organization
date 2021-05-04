@@ -1,4 +1,4 @@
-# Project 4 - Microprogrammed Computer Design
+## Project 4 - Microprogrammed Computer Design
 
 This folder contains the design of a software-based control unit for a modified version of the system designed in project 2. Instruction format can be found in the PDF file under this folder. Additionally, example alternative microprograms can be found under the folder `example_rom`. 
 
